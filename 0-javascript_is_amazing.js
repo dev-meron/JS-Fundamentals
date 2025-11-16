@@ -1,3 +1,4 @@
-myVar = "js is amazing language";
+const myVar = " javascript is amazing ";
 console.log(myVar);
+
 
